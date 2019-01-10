@@ -8,7 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		E7320A5721E7927D0090A425 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E7320A5621E7927D0090A425 /* AppDelegate.swift */; };
-		E7320A5921E7927D0090A425 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E7320A5821E7927D0090A425 /* ViewController.swift */; };
+		E7320A5921E7927D0090A425 /* ImpactViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E7320A5821E7927D0090A425 /* ImpactViewController.swift */; };
 		E7320A5C21E7927D0090A425 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E7320A5A21E7927D0090A425 /* Main.storyboard */; };
 		E7320A5E21E7927F0090A425 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E7320A5D21E7927F0090A425 /* Assets.xcassets */; };
 		E7320A6121E7927F0090A425 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E7320A5F21E7927F0090A425 /* LaunchScreen.storyboard */; };
@@ -17,7 +17,7 @@
 /* Begin PBXFileReference section */
 		E7320A5321E7927D0090A425 /* GlobalImpactApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GlobalImpactApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E7320A5621E7927D0090A425 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		E7320A5821E7927D0090A425 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		E7320A5821E7927D0090A425 /* ImpactViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImpactViewController.swift; sourceTree = "<group>"; };
 		E7320A5B21E7927D0090A425 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		E7320A5D21E7927F0090A425 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E7320A6021E7927F0090A425 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -73,7 +73,7 @@
 		E7320A6921E792CA0090A425 /* Controller */ = {
 			isa = PBXGroup;
 			children = (
-				E7320A5821E7927D0090A425 /* ViewController.swift */,
+				E7320A5821E7927D0090A425 /* ImpactViewController.swift */,
 			);
 			path = Controller;
 			sourceTree = "<group>";
@@ -159,7 +159,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E7320A5921E7927D0090A425 /* ViewController.swift in Sources */,
+				E7320A5921E7927D0090A425 /* ImpactViewController.swift in Sources */,
 				E7320A5721E7927D0090A425 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
